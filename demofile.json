@@ -1,0 +1,784 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+                },
+                "href": "https://api.spotify.com/v1/albums/1aqg30bNvLSWgShZgX4oop",
+                "id": "1aqg30bNvLSWgShZgX4oop",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b1863bf95557ea7f357c4947",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Man\u2019s Best Friend",
+                "release_date": "2025-08-29",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 213645,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USUM72504354"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2BwO5K8Q7EPAJSGze3AAh9",
+            "id": "2BwO5K8Q7EPAJSGze3AAh9",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Manchild",
+            "popularity": 88,
+            "preview_url": null,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+                },
+                "href": "https://api.spotify.com/v1/albums/1aqg30bNvLSWgShZgX4oop",
+                "id": "1aqg30bNvLSWgShZgX4oop",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b1863bf95557ea7f357c4947",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Man\u2019s Best Friend",
+                "release_date": "2025-08-29",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 160183,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM72504355"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/42VUCXerQ5qTr4Qp6PhKo4",
+            "id": "42VUCXerQ5qTr4Qp6PhKo4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Tears",
+            "popularity": 92,
+            "preview_url": null,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+                },
+                "href": "https://api.spotify.com/v1/albums/4a6NzYL1YHRUgx9e3YZI6I",
+                "id": "4a6NzYL1YHRUgx9e3YZI6I",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "The Life of a Showgirl",
+                "release_date": "2025-10-03",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 241766,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USUG12506447"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5eXgqtg3T8Av0m1FUaGHex",
+            "id": "5eXgqtg3T8Av0m1FUaGHex",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+            "popularity": 91,
+            "preview_url": null,
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:5eXgqtg3T8Av0m1FUaGHex"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3iPSVi54hsacKKl1xIR2eH",
+                "id": "3iPSVi54hsacKKl1xIR2eH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Short n' Sweet",
+                "release_date": "2024-08-23",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 175459,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USUM72403305"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2HRqTpkrJO5ggZyyK6NPWz",
+            "id": "2HRqTpkrJO5ggZyyK6NPWz",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Espresso",
+            "popularity": 86,
+            "preview_url": null,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+                },
+                "href": "https://api.spotify.com/v1/albums/1aqg30bNvLSWgShZgX4oop",
+                "id": "1aqg30bNvLSWgShZgX4oop",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b1863bf95557ea7f357c4947",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Man\u2019s Best Friend",
+                "release_date": "2025-08-29",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 145398,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM72504446"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0je57Uq5eTk1wrPzn9sWbl",
+            "id": "0je57Uq5eTk1wrPzn9sWbl",
+            "is_local": false,
+            "is_playable": true,
+            "name": "When Did You Get Hot?",
+            "popularity": 91,
+            "preview_url": null,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3iPSVi54hsacKKl1xIR2eH",
+                "id": "3iPSVi54hsacKKl1xIR2eH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Short n' Sweet",
+                "release_date": "2024-08-23",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 157279,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM72404100"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5G2f63n7IPVPPjfNIGih7Q",
+            "id": "5G2f63n7IPVPPjfNIGih7Q",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Taste",
+            "popularity": 87,
+            "preview_url": null,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+                },
+                "href": "https://api.spotify.com/v1/albums/1aqg30bNvLSWgShZgX4oop",
+                "id": "1aqg30bNvLSWgShZgX4oop",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b1863bf95557ea7f357c4947",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Man\u2019s Best Friend",
+                "release_date": "2025-08-29",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 182576,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USUM72504443"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4SRShYMtFIGgnOU7iBicMH",
+            "id": "4SRShYMtFIGgnOU7iBicMH",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Nobody\u2019s Son",
+            "popularity": 88,
+            "preview_url": null,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:4SRShYMtFIGgnOU7iBicMH"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3iPSVi54hsacKKl1xIR2eH",
+                "id": "3iPSVi54hsacKKl1xIR2eH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fd8d7a8d96871e791cb1f626",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Short n' Sweet",
+                "release_date": "2024-08-23",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 186365,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USUM72404101"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2tHwzyyOLoWSFqYNjeVMzj",
+            "id": "2tHwzyyOLoWSFqYNjeVMzj",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Please Please Please",
+            "popularity": 84,
+            "preview_url": null,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+                },
+                "href": "https://api.spotify.com/v1/albums/1aqg30bNvLSWgShZgX4oop",
+                "id": "1aqg30bNvLSWgShZgX4oop",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b1863bf95557ea7f357c4947",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Man\u2019s Best Friend",
+                "release_date": "2025-08-29",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 169214,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM72504449"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+            },
+            "href": "https://api.spotify.com/v1/tracks/25jgQBxuUkGDdCG1WGKKN9",
+            "id": "25jgQBxuUkGDdCG1WGKKN9",
+            "is_local": false,
+            "is_playable": true,
+            "name": "House Tour",
+            "popularity": 86,
+            "preview_url": null,
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:25jgQBxuUkGDdCG1WGKKN9"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                        "id": "74KM79TiuVKeVCqs8QtB0B",
+                        "name": "Sabrina Carpenter",
+                        "type": "artist",
+                        "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+                },
+                "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+                "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851700f7bf79c9f063ad0362bdf",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "emails i can't send",
+                "release_date": "2022-07-15",
+                "release_date_precision": "day",
+                "total_tracks": 13,
+                "type": "album",
+                "uri": "spotify:album:5kDmlA2g9Y1YCbNo2Ufxlz"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 163648,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM72210708"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6dgUya35uo964z7GZXM07g",
+            "id": "6dgUya35uo964z7GZXM07g",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Nonsense",
+            "popularity": 84,
+            "preview_url": null,
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:6dgUya35uo964z7GZXM07g"
+        }
+    ]
+}

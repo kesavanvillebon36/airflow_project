@@ -1,0 +1,7 @@
+airflow*
+logs
+raw
+venv
+demonfile*
+simple_auth_manager_passwords.json.generated
+.env
