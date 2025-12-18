@@ -7,5 +7,5 @@ simple_auth_manager_passwords.json.generated
 .env*
 all*
 demofile*
-
+.ipynb_checkpoints
 
