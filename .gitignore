@@ -8,4 +8,4 @@ simple_auth_manager_passwords.json.generated
 all*
 demofile*
 .ipynb_checkpoints
-
+__pycache__
