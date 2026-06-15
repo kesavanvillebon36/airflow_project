@@ -1,7 +1,7 @@
 airflow*
 logs
 raw
-venv
+venv*
 demonfile*
 simple_auth_manager_passwords.json.generated
 .env*
@@ -9,3 +9,8 @@ all*
 demofile*
 .ipynb_checkpoints
 __pycache__
+dags/Titled*
+Untitled*
+lib/Untitled*
+dags/automate_export_database.py
+lib/export_database.py

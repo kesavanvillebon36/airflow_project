@@ -5,19 +5,21 @@
 import requests
 import json
 import datetime
+import os
 from dotenv import dotenv_values
-
+import pathlib
+from airflow.sdk import Variable
 
 """
     Get Bearer Token
 """
 
 
-secrets = dotenv_values(".env")
+client_id = Variable.get("client_id_spotify")
+client_secret =  Variable.get("client_secret_spotify")
+
 
 def get_token():
-    client_id = secrets["client_id"]
-    client_secret = secrets["client_secret"]
     data = {
             "grant_type": "client_credentials",
             "client_id": f"{client_id}",
@@ -38,14 +40,13 @@ def request_page_top_tracks(URL, token_bearer):
 def json_formatted_file(page):
     #print(my_json)
     #print('- ' * 20)
-
     # Load the JSON to a Python list & dump it back out as formatted JSON
     data = json.loads(page.content)
     return json.dumps(data, indent=4, sort_keys=True)
 
 
-def main():
-
+def fetch_data():
+    print(pathlib.Path(__file__).parent.resolve())
     token_bearer = get_token()
     dico_artists = {"Bad_Bunny": "4q3ewBCX7sLwd24euuV69X",
                     "Taylor_Swift" : "06HL4z0CvFAxyc27GXpf02",
@@ -59,9 +60,10 @@ def main():
                     "Fuerza_Regida" : "0ys2OFYzWYB5hRDLCsBqxt",
                     "Anirudh_Ravichander" : "4zCH9qm4R2DADamUHMCa6O",
                     "Sabrina_Carpenter" : "74KM79TiuVKeVCqs8QtB0B",
-                    "Kendrick_Lamar" : "2YZyLoL8N0Wb9xBt1NhZWg"
+                    "Kendrick_Lamar" : "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "HUNTRX" : "2yNNYQBChuox9A5Ka93BIn"
                     }
-
+    print("Je commence l'écriture des top_tracks")
     for name, id in dico_artists.items():
         # Website URL
         URL = f'https://api.spotify.com/v1/artists/{id}/top-tracks?market=US'
@@ -69,14 +71,17 @@ def main():
         
         
         page = request_page_top_tracks(URL, token_bearer=token_bearer)
+        # Ajouter une exception en prenant en compte le page status, s'il vaut 200
         s = json_formatted_file(page)
         #print(s)
         current_date = datetime.datetime.today().strftime('%Y-%m-%d')
-        with open(f"raw/spotify/artist/top_tracks_{name}_{current_date}.json", "w") as f:
+        with open(f"/home/kesav/airflow_project/raw/spotify/artist/{current_date}_top_tracks_{name}.json", "w") as f:
             f.write(s)
-
+        print(f"{name} FAIT")
+"""
 if __name__ == "__main__":
-   main()
+   fetch_data()
+"""
 
 
 
